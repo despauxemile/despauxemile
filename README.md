@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @despauxemile
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning systems programming in Rust, Zig
+- 🌱 I’m currently learning systems programming in C, Rust, Zig
+- 😎 Fluent in Javascript, Typescript, newly in Python
