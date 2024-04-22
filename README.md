@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @despauxemile
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning systems programming in Rust, Zig
